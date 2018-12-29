@@ -11,10 +11,15 @@
 langkah pertama yaitu Download/Clone projek ini kemudian pelajari lalu bikin projek laravel yang seblumnya sudah install Composer di laptop atau komputer anda.
 
 Buat project nya dengan nama laravel-api, berikut command nya :
+
 composer create-project laravel/laravel laravel-api --prefer-dist
 
 kemudian bisa dilanjutkan dengan tutorial berikut ::::>> 
 https://medium.com/@tedoharischandra29/membangun-dan-testing-rest-api-dengan-crud-sederhana-laravel-687a7d96ab3b
+
+## Question?
+
+email : ade.fajr.ariav@gmail.com
 
 
 ## Contributing
